@@ -6,6 +6,8 @@ A deep learning-based system designed to detect pedestrian safety violations usi
 - **Real-Time Detection** using YOLO models.
 - **High Accuracy** with 91% detection performance.
 - **Optimized for Scalability** in smart city surveillance systems.
+- 
+  ![Screenshot 2025-04-11 171144](https://github.com/user-attachments/assets/c1cc9219-08a5-45fa-991e-59b47ba6a019)
 
 ## **Technologies Used**
 - **Languages:** Python  
